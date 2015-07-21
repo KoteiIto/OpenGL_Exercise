@@ -45,7 +45,8 @@ int main(){
         glColor4f(1.0f, 1.0f, 1.0f, 1.0f);
         //頂点配列で描画するモードに切り替える
         glEnableClientState(GL_VERTEX_ARRAY);
-        glDrawArrays(GL_POINT, 0, 1);
+        glDrawArrays(GL_POINTS, 0, 1);
+        
         //描画モードを元に戻す
         glDisableClientState(GL_VERTEX_ARRAY);
         

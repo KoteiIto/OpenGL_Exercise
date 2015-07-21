@@ -6,8 +6,8 @@
 //  Copyright (c) 2015年 伊藤皓程. All rights reserved.
 //
 
-#import <Cocoa/Cocoa.h>
+//#import <Cocoa/Cocoa.h>
 
-int main(int argc, const char * argv[]) {
-    return NSApplicationMain(argc, argv);
-}
+//int main(int argc, const char * argv[]) {
+//    return NSApplicationMain(argc, argv);
+//}
