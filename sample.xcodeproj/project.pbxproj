@@ -18,7 +18,7 @@
 		05921B331B5CC7F90098C686 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 05921B281B5CC3E70098C686 /* Cocoa.framework */; };
 		0592F8221B5E9C4B00AB5977 /* sample.raw in Resources */ = {isa = PBXBuildFile; fileRef = 0592F8201B5E9C4B00AB5977 /* sample.raw */; };
 		0592F8231B5E9C4B00AB5977 /* sample2.raw in Resources */ = {isa = PBXBuildFile; fileRef = 0592F8211B5E9C4B00AB5977 /* sample2.raw */; };
-		72327EBD1B5F358F00EDB4AC /* tutorial11.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 72327EBC1B5F358F00EDB4AC /* tutorial11.cpp */; };
+		72327EBF1B5F574B00EDB4AC /* tutorial12.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 72327EBE1B5F574B00EDB4AC /* tutorial12.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,7 +47,7 @@
 		05921B2E1B5CC42E0098C686 /* libglfw.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libglfw.a; path = lib_osx/libglfw.a; sourceTree = "<group>"; };
 		0592F8201B5E9C4B00AB5977 /* sample.raw */ = {isa = PBXFileReference; lastKnownFileType = file; path = sample.raw; sourceTree = "<group>"; };
 		0592F8211B5E9C4B00AB5977 /* sample2.raw */ = {isa = PBXFileReference; lastKnownFileType = file; path = sample2.raw; sourceTree = "<group>"; };
-		72327EBC1B5F358F00EDB4AC /* tutorial11.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = tutorial11.cpp; sourceTree = "<group>"; };
+		72327EBE1B5F574B00EDB4AC /* tutorial12.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = tutorial12.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,7 +75,7 @@
 		05921AFC1B5CC3750098C686 = {
 			isa = PBXGroup;
 			children = (
-				72327EBC1B5F358F00EDB4AC /* tutorial11.cpp */,
+				72327EBE1B5F574B00EDB4AC /* tutorial12.cpp */,
 				0592F8201B5E9C4B00AB5977 /* sample.raw */,
 				0592F8211B5E9C4B00AB5977 /* sample2.raw */,
 				05921B2E1B5CC42E0098C686 /* libglfw.a */,
@@ -234,8 +234,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				72327EBF1B5F574B00EDB4AC /* tutorial12.cpp in Sources */,
 				05921B0E1B5CC3750098C686 /* main.m in Sources */,
-				72327EBD1B5F358F00EDB4AC /* tutorial11.cpp in Sources */,
 				05921B0C1B5CC3750098C686 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
