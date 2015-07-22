@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>15F782E2-4FA5-4B8F-A532-70E9DBDFE8CA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>sample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6AF8470CABCEA1F03C4F83F2671789AFC83D4C15</key>
+		<string>https://github.com/KoteiIto/OpenGL_Exercise.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>sample.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6AF8470CABCEA1F03C4F83F2671789AFC83D4C15</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/KoteiIto/OpenGL_Exercise.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6AF8470CABCEA1F03C4F83F2671789AFC83D4C15</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6AF8470CABCEA1F03C4F83F2671789AFC83D4C15</string>
+			<key>IDESourceControlWCCName</key>
+			<string>sample</string>
+		</dict>
+	</array>
+</dict>
+</plist>
